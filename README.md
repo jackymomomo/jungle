@@ -1,14 +1,10 @@
 # Jungle
 
-A mini e-commerce application built with Ruby on Rails as a student assignment for Lighhouse Labs full-stack web development program. TDD (test-driven development) practices are followed using RSpec and Cypress library. Stripe platform is used for payments.
+A mini plant ecommerce application built with Ruby on Rails as a student assignment for Lighhouse Labs full-stack web development program. TDD (test-driven development)
 
 # Project Functionality
 * Admin users can list and create new categories
 * Admins can add new products using the new category
-* Visitors can go to the registration page from any page in order to create an account
-* Visitors can sign up for a user account with e-mail, password, first name and last name
-* Visitors can sign in using e-mail and password
-* Visitors can log out from any page
 
 End result
 app will run on http://localhost:3000/
